@@ -1,0 +1,11 @@
+###
+#
+# cd_stage.yml
+#
+# Config data for the Staging environment
+#
+###
+
+url:
+  playground: 'https://whatever-stage.org/oauth'
+  profile: 'https://profile-whatever-stage.org'

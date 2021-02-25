@@ -1,0 +1,13 @@
+###
+#
+# td_stage.yml
+#
+# Test data for the Staging environment
+#
+###
+
+users:
+  qa_user_1:
+    email: qa.at_user_100@gmail.com
+    username: qa_user_100
+    password: somepassword

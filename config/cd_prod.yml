@@ -1,0 +1,11 @@
+###
+#
+# cd_prod.yml
+#
+# Config data for the Production environment
+#
+###
+
+url:
+  playground: 'https://whatever-prod.org/oauth'
+  profile: 'https://profile.whatever-prod.org'
